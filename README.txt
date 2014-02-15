@@ -11,5 +11,5 @@ Controls:
 Move Paddle: Left and Right Arrow Keys or A and D keys
 Launch Ball: Spacebar
 
-I also have the standalone file available for PC, Mac and Linux. 
+I also have the standalone file available for PC, Mac and Linux. (BreakClone.exe)
 
